@@ -24,7 +24,9 @@
         },
         {
             "src": "/(.*)",
-            "dest": "tmdb/wsgi.py"
+            "dest": "tmdb/wsgi.py",
+            "dest1": "tmdb/wsgi.py"
         }
     ]
 }
+
